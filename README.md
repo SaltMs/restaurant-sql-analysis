@@ -195,7 +195,7 @@ ORDER BY order_count DESC;
 
 The final analysis compares restaurants using total orders, total order value, average order value, cuisine, city, and customer rating.
 
-![Restaurant Performance Summary](screenshots/12_restaurant_performance_summary.png)
+![Restaurant Performance Summary](screenshots/12_Restaurant_performance_summary.png)
 
 ---
 
